@@ -355,9 +355,9 @@ class Gallery extends React.Component {
                     style={TextFieldStyles}
                   >
                     {/* CONTENT TYPE DROP DOWNS */}
-                    <option value="">Content Type</option>
-                    <option value="comments">reddit comments</option>
-                    <option value="posts">reddit post</option>
+                    <option value="">Type</option>
+                    <option value="comments">Comments</option>
+                    <option value="posts">Post</option>
                   </select>
 
                   <select
@@ -366,9 +366,9 @@ class Gallery extends React.Component {
                     style={TextFieldStyles}
                   >
                     {/* CONTENT TYPE DROP DOWNS */}
-                    <option value="">Content Type</option>
-                    <option value="comments">stack comments</option>
-                    <option value="stackoverflow_posts">stack post</option>
+                    <option value="">Type</option>
+                    <option value="comments">Comments</option>
+                    <option value="stackoverflow_posts">Post</option>
                   </select>
                 </p>
 
@@ -379,7 +379,7 @@ class Gallery extends React.Component {
                     style={TextFieldStyles}
                   >
                     {/* STATIC DATE TIME DROP DOWN */}
-                    <option value="created_utc">Time Created</option>
+                    <option value="created_utc">Time</option>
                   </select>
                 </p>
 
@@ -394,11 +394,11 @@ class Gallery extends React.Component {
                     {/* SHARED DATA KEYS */}
                     <option value="score">Score</option>
                     {/* REDDIT DATA KEYS*/}
-                    <option value="ups">reddit upvotes</option>
-                    <option value="downs">reddit downvotes</option>
+                    <option value="ups">Upvotes</option>
+                    <option value="downs">Downvotes</option>
                     <option value="subreddit">Subreddit</option>
                     <option value="author">Author</option>
-                    <option value="body">reddit comment text</option>
+                    <option value="body">Comment Text</option>
                   </select>
 
                   <select
@@ -411,19 +411,19 @@ class Gallery extends React.Component {
                     {/* SHARED DATA KEYS */}
                     <option value="score">Score</option>
                     {/* STACK DATA KEYS */}
-                    <option value="view_count">stack post num views</option>
-                    <option value="favorite_count">stack post num favs</option>
-                    <option value="answer_count">stack post num answers</option>
+                    <option value="view_count">Post Views</option>
+                    <option value="favorite_count">Post Favs</option>
+                    <option value="answer_count">Post Answers</option>
                     <option value="comment_count">
-                      stack post num comments
+                      Post Comments
                     </option>
                     <option value="last_activity_date">
-                      stack post date last active
+                      Post Date
                     </option>
-                    <option value="title">stack post title</option>
-                    <option value="body">stack post body</option>
-                    <option value="tags">stack post tags</option>
-                    <option value="text">stack comment text</option>
+                    <option value="title">Post title</option>
+                    <option value="body">Post body</option>
+                    <option value="tags">Post tags</option>
+                    <option value="text">Comment Text</option>
                   </select>
                 </p>
 
@@ -438,11 +438,11 @@ class Gallery extends React.Component {
                     {/* SHARED DATA KEYS */}
                     <option value="score">Score</option>
                     {/* REDDIT DATA KEYS*/}
-                    <option value="ups">reddit upvotes</option>
-                    <option value="downs">reddit downvotes</option>
+                    <option value="ups">Upvotes</option>
+                    <option value="downs">Downvotes</option>
                     <option value="subreddit">Subreddit</option>
                     <option value="author">Author</option>
-                    <option value="body">reddit comment text</option>
+                    <option value="body">Comment Text</option>
                   </select>
 
                   <select
@@ -455,19 +455,19 @@ class Gallery extends React.Component {
                     {/* SHARED DATA KEYS */}
                     <option value="score">Score</option>
                     {/* STACK DATA KEYS */}
-                    <option value="view_count">stack post num views</option>
-                    <option value="favorite_count">stack post num favs</option>
-                    <option value="answer_count">stack post num answers</option>
+                    <option value="view_count">Post Views</option>
+                    <option value="favorite_count">Post Favs</option>
+                    <option value="answer_count">Post Answers</option>
                     <option value="comment_count">
-                      stack post num comments
+                      Post Comments
                     </option>
                     <option value="last_activity_date">
-                      stack post date last active
+                      Post Date
                     </option>
-                    <option value="title">stack post title</option>
-                    <option value="body">stack post body</option>
-                    <option value="tags">stack post tags</option>
-                    <option value="text">stack comment text</option>
+                    <option value="title">Post Title</option>
+                    <option value="body">Post Body</option>
+                    <option value="tags">Post Tags</option>
+                    <option value="text">Comment Text</option>
                   </select>
                 </p>
 

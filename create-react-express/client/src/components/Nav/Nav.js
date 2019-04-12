@@ -13,7 +13,7 @@ function Nav() {
       <Grid padded className="tablet computer only">
         <Menu borderless inverted fluid fixed="top">
           <Menu.Item header as="a" href="/home"> 
-          KT
+          Data Analytics
           </Menu.Item>
 
           <Menu.Menu position="right">
