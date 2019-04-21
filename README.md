@@ -66,6 +66,7 @@ See [Google BigQuery Quickstart](https://cloud.google.com/bigquery/docs/quicksta
 
 ## Authors
 <hr>
+
 - _Kevin Zhang_ - (https://github.com/Kevin101Zhang)
 
 - _Theodore Newman_ - (https://github.com/remidev)
