@@ -56,9 +56,9 @@ See [Google BigQuery Quickstart](https://cloud.google.com/bigquery/docs/quicksta
 | :--------------------------------------------------: | :-: | :------------------------------------------------------------: |
 |            [React](https://reactjs.org/)             | \|  |     [Google BigQuery](https://cloud.google.com/bigquery/)      |
 | [Semantics UI React](https://react.semantic-ui.com/) | \|  | [BigQuery Node.js Library](https://cloud.google.com/bigquery/) |
-|              [D3.js](https://d3js.org/)              | \|  |       [Simple-Statistics](https://simplestatistics.org/)       |
+|              [D3.js](https://d3js.org/)              | \|  |       [Express](https://www.npmjs.com/package/express)       
 |      [Recharts](http://recharts.org/en-US/blog)      | \|  |               [Moment.js](https://momentjs.com/)               |
-
+|  [Simple-Statistics](https://simplestatistics.org/)  | \|  |                             
 <br>
 Additional Utility Used: <br>
 1. Lodash -(https://lodash.com/) <br>
