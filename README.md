@@ -33,6 +33,11 @@ For help getting started, installation instructions, example usage or a list of 
 
 1. Clone or Fork Repository
 2. NPM Install dependencies
+```
+npm install
+    or
+npm i
+```
 3. Create a Google Cloud Console Project
 4. Enable Billing
 5. Enable BigQuery API
