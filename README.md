@@ -60,10 +60,10 @@ See [Google BigQuery Quickstart](https://cloud.google.com/bigquery/docs/quicksta
 |      [Recharts](http://recharts.org/en-US/blog)      | \|  |               [Moment.js](https://momentjs.com/)               |
 
 <br>
-Additional Utility Used: 
-1. Lodash -(https://lodash.com/)
+Additional Utility Used: <br>
+1. Lodash -(https://lodash.com/) <br>
 2. Axios - (https://www.npmjs.com/package/axios)
-3. 
+
 <br>
 
 <hr>
