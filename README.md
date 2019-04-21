@@ -1,6 +1,6 @@
 # BigQuery Visual Data Analytics
 
-## Projet Description
+## Project Description
 
 ```
 Users build and run simplified SQL queries on public tech-flavored social media data from Google BigQuery API via the Node.js client library.
@@ -33,10 +33,10 @@ For help getting started, installation instructions, example usage or a list of 
 
 1. Clone or Fork Repository
 2. NPM Install dependencies
-3. Create Google Cloud Console Project
+3. Create a Google Cloud Console Project
 4. Enable Billing
 5. Enable BigQuery API
-6. Create Service Account Key
+6. Create a Service Account Key
 7. Authenticate your local application
 
 See [Google BigQuery Quickstart](https://cloud.google.com/bigquery/docs/quickstarts/quickstart-client-libraries#before-you-begin) for a more detailed walkthrough of steps 2 - 7
